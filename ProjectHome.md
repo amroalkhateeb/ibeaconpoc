@@ -1,0 +1,1 @@
+Reading the project will give you a good jump start on iBeacon
